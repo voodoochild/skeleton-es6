@@ -1,0 +1,18 @@
+@charset 'utf-8';
+
+@import '../../bower_components/normalize-scss/_normalize';
+@import '_typography';
+@import '_colors';
+
+* {
+    box-sizing: border-box;
+}
+
+* + * {
+    margin-top: 1em;
+}
+
+body {
+    background-color: $background;
+    color: $foreground;
+}

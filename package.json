@@ -1,0 +1,13 @@
+{
+  "name": "skeleton-es6",
+  "version": "0.1.0",
+  "repository": "https://github.com/voodoochild/skeleton-es6",
+  "description": "Skeleton project with ES6",
+  "devDependencies": {
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.5.2"
+  }
+}
